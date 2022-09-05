@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeNGaP
-- 👀 I’m interested in crypto trading
+- 👀 I’m interested in crypto trading and swift development
 - 🌱 I’m currently learning trading and search new project
 - 💞️ I’m looking to collaborate on good people
 - 📫 How to reach me mail (abrosimov.nikitaa@gmail.com)

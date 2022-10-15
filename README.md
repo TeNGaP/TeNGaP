@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeNGaP
+- 👋 Hi, I’m Nikita Abrosimov
 - 👀 I’m interested in crypto trading and swift development
 - 🌱 I’m currently learning trading and search new project
 - 💞️ I’m looking to collaborate on good people
